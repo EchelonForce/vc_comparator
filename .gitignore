@@ -36,3 +36,4 @@ fp-info-cache
 *.FCStd2
 Private
 /*/#auto_saved_files#
+*.lnk
