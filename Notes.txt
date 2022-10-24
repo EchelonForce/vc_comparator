@@ -3,3 +3,6 @@ https://tinyurl.com/2guo99mw- updated with output level adjust trim pots
 https://tinyurl.com/2kqce7o7 with caps and input filter
 
 Made on bread board, had a few noisy areas but adding caps helped. Also put a rc filter on the signal input in the schematic just in case.
+
+Issues on v1 PCB:
+ - Negative of the LM393 should be to GND like on the breadboard... cut the trace to -12V and short C8 to GND with a 0 Ohm.
